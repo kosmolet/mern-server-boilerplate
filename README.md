@@ -26,7 +26,10 @@ Run `npm i`, after run `npm run dev`
 [mongo-seeding](https://www.npmjs.com/package/mongo-seeding) solution for populating MongoDB database    
 [cors](https://www.npmjs.com/package/cors) node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options  
 [cross-env](https://www.npmjs.com/package/cross-env) to run scripts that set and use environment variables across platforms
-[pino*](https://github.com/pinojs/pino) Node.js logger  
+[pino*](https://github.com/pinojs/pino) Node.js logger    
+[prettier](https://prettier.io/) code formatter  
+[eslint](https://eslint.org/) to find and fix problems in JavaScript code  
+[husky](https://www.npmjs.com/package/husky) to prevent bad git commit, git push
 
 
 
