@@ -16,4 +16,6 @@ Run `npm i`, after run `npm run dev`
 ### Dependencies  
 [Express](https://www.npmjs.com/package/express) backend web application framework for Node  
 [Dotenv](https://www.npmjs.com/package/dotenv) module that loads environment variables from a .env file into process.env
+[mongoose](https://mongoosejs.com/) mongodb object modeling for node.js  
+[nodemon](https://www.npmjs.com/package/nodemon) tool which automatically restarting the node application when file changes in the directory are detected 
 
