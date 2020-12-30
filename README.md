@@ -14,5 +14,6 @@ boilerplate includes
 Run `npm i`, after run `npm run dev`
 
 ### Dependencies  
-(Express)[https://www.npmjs.com/package/express] application framework for Node 
+[Express](https://www.npmjs.com/package/express) backend web application framework for Node  
+[Dotenv](https://www.npmjs.com/package/dotenv) module that loads environment variables from a .env file into process.env
 
