@@ -24,7 +24,8 @@ Run `npm i`, after run `npm run dev`
 [nyc](https://www.npmjs.com/package/nyc) tool uses Istanbul's text reporter  
 [coveralls](https://coveralls.io/) tool for adding coverage reporting to continuous-integration flow  
 [mongo-seeding](https://www.npmjs.com/package/mongo-seeding) solution for populating MongoDB database    
-[cors](https://www.npmjs.com/package/cors) node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options    
+[cors](https://www.npmjs.com/package/cors) node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options
+[pino*](https://github.com/pinojs/pino) Node.js logger  
 
 
 
