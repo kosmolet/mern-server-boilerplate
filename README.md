@@ -17,7 +17,9 @@ Run `npm i`, after run `npm run dev`
 [Express](https://www.npmjs.com/package/express) backend web application framework for Node  
 [Dotenv](https://www.npmjs.com/package/dotenv) module that loads environment variables from a .env file into process.env  
 [mongoose](https://mongoosejs.com/) mongodb object modeling for node.js    
-[nodemon](https://www.npmjs.com/package/nodemon) tool which automatically restarting the node application when file changes in the directory are detected 
-[chai](https://www.chaijs.com/) BDD / TDD assertion library for node  
-[mocha](https://mochajs.org/) test framework running on Node.js  
+[nodemon](https://www.npmjs.com/package/nodemon) tool which automatically restarting the node application when file changes in the directory are detected  
+[chai](https://www.chaijs.com/) BDD / TDD assertion library for node    
+[mocha](https://mochajs.org/) test framework running on Node.js   
+[supertest](https://www.npmjs.com/package/supertest) module provides a high-level abstraction for testing HTTP, while still allows to drop down to the lower-level API provided by superagent  
+[mongo-seeding](https://www.npmjs.com/package/mongo-seeding) solution for populating MongoDB database  
 
