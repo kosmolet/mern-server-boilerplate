@@ -21,9 +21,10 @@ Run `npm i`, after run `npm run dev`
 [chai](https://www.chaijs.com/) BDD / TDD assertion library for node    
 [mocha](https://mochajs.org/) test framework running on Node.js   
 [supertest](https://www.npmjs.com/package/supertest) module provides a high-level abstraction for testing HTTP, while still allows to drop down to the lower-level API provided by superagent  
-[nyc](https://www.npmjs.com/package/nyc) tool uses Istanbul's text reporter
-[Coverall](https://coveralls.io/) tool for adding coverage reporting to continuous-integration flow
-[mongo-seeding](https://www.npmjs.com/package/mongo-seeding) solution for populating MongoDB database  
-[cors](https://www.npmjs.com/package/cors) node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options  
+[nyc](https://www.npmjs.com/package/nyc) tool uses Istanbul's text reporter  
+[coveralls](https://coveralls.io/) tool for adding coverage reporting to continuous-integration flow  
+[mongo-seeding](https://www.npmjs.com/package/mongo-seeding) solution for populating MongoDB database    
+[cors](https://www.npmjs.com/package/cors) node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options    
+
 
 
