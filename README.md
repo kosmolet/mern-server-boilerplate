@@ -10,6 +10,9 @@ boilerplate includes
 * Nyc and coveralls to verify test coverage
 * Pino logger to make logs maintainable and readable 
 
-Set up and start: 
+### Set up and start: 
 Run `npm i`, after run `npm run dev`
+
+### Dependencies  
+(Express)[https://www.npmjs.com/package/express] application framework for Node 
 
